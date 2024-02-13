@@ -1,0 +1,196 @@
+[ 
+    {
+        "hospital": "Blue Ridge Medical Center",
+        "department": "Cardiology",
+        "patient_satisfaction": {"excellent": 120, "good": 95, "average": 75, "poor": 10},
+        "average_wait_time": 10,
+        "treatment_efficacy": {"effective": 80, "moderately_effective": 100, "ineffective": 20},
+        "patient_count": 349,
+        "gender_ratio": {"male": 150, "female": 20},
+        "facility_rating": {"cleanliness": 4.5, "comfort": 4.0}
+    },
+    {
+        "hospital": "Blue Ridge Medical Center",
+        "department": "Neurology",
+        "patient_satisfaction": {"excellent": 110, "good": 105, "average": 55, "poor": 30},
+        "average_wait_time": 40,
+        "treatment_efficacy": {"effective": 100, "moderately_effective": 80, "ineffective": 20},
+        "patient_count": 290,
+        "gender_ratio": {"male": 120, "female": 180},
+        "facility_rating": {"cleanliness": 4.7, "comfort": 4.3}
+    },
+    
+    {
+        "hospital": "Blue Ridge Medical Center",
+        "department": "Dermatology",
+        "patient_satisfaction": {"excellent": 140, "good": 110, "average": 50, "poor": 0},
+        "average_wait_time": 20,
+        "treatment_efficacy": {"effective": 150, "moderately_effective": 50, "ineffective": 0},
+        "patient_count": 192,
+        "gender_ratio": {"male": 100, "female": 120},
+        "facility_rating": {"cleanliness": 4.8, "comfort": 4.7}
+    },
+    {
+        "hospital": "Blue Ridge Medical Center",
+        "department": "Pediatrics",
+        "patient_satisfaction": {"excellent": 100, "good": 100, "average": 80, "poor": 20},
+        "average_wait_time": 20,
+        "treatment_efficacy": {"effective": 10, "moderately_effective": 70, "ineffective": 20},
+        "patient_count": 239,
+        "gender_ratio": {"male": 100, "female": 150},
+        "facility_rating": {"cleanliness": 4.9, "comfort": 4.5}
+    },
+    {
+        "hospital": "Blue Ridge Medical Center",
+        "department": "Oncology",
+        "patient_satisfaction": {"excellent": 90, "good": 120, "average": 70, "poor": 20},
+        "average_wait_time": 60,
+        "treatment_efficacy": {"effective": 70, "moderately_effective": 90, "ineffective": 40},
+        "patient_count": 139,
+        "gender_ratio": {"male": 130, "female": 170},
+        "facility_rating": {"cleanliness": 4.4, "comfort": 4.2}
+    },
+    {
+        "hospital": "Blue Ridge Medical Center",
+        "department": "Emergency",
+        "patient_satisfaction": {"excellent": 85, "good": 95, "average": 100, "poor": 100},
+        "average_wait_time": 50,
+        "treatment_efficacy": {"effective": 85, "moderately_effective": 115, "ineffective": 0},
+        "patient_count": 102,
+        "gender_ratio": {"male": 160, "female": 140},
+        "facility_rating": {"cleanliness": 4.2, "comfort": 3.8}
+    },
+    {
+        "hospital": "Evergreen Hospital",
+        "department": "Cardiology",
+        "patient_satisfaction": {"excellent": 127, "good": 102, "average": 82, "poor": 17},
+        "average_wait_time": 22,
+        "treatment_efficacy": {"effective": 87, "moderately_effective": 107, "ineffective": 27},
+        "patient_count": 275,
+        "gender_ratio": {"male": 225, "female": 157},
+        "facility_rating": {"cleanliness": 4.8, "comfort": 4.7}
+    },
+    {
+        "hospital": "Evergreen Hospital",
+        "department": "Neurology",
+        "patient_satisfaction": {"excellent": 117, "good": 112, "average": 62, "poor": 37},
+        "average_wait_time": 52,
+        "treatment_efficacy": {"effective": 107, "moderately_effective": 87, "ineffective": 27},
+        "patient_count": 290,
+        "gender_ratio": {"male": 150, "female": 183},
+        "facility_rating": {"cleanliness": 5.4, "comfort": 5.0}
+    },
+    
+    {
+        "hospital": "Evergreen Hospital",
+        "department": "Dermatology",
+        "patient_satisfaction": {"excellent": 147, "good": 117, "average": 57, "poor": 7},
+        "average_wait_time": 37,
+        "treatment_efficacy": {"effective": 157, "moderately_effective": 57, "ineffective": 7},
+        "patient_count": 387,
+        "gender_ratio": {"male": 95, "female": 128},
+        "facility_rating": {"cleanliness": 5.5, "comfort": 5.4}
+    },
+    {
+        "hospital": "Evergreen Hospital",
+        "department": "Pediatrics",
+        "patient_satisfaction": {"excellent": 107, "good": 107, "average": 87, "poor": 27},
+        "average_wait_time": 23,
+        "treatment_efficacy": {"effective": 117, "moderately_effective": 77, "ineffective": 27},
+        "patient_count": 430,
+        "gender_ratio": {"male": 157, "female": 172},
+        "facility_rating": {"cleanliness": 5.6, "comfort": 5.2}
+    },
+    {
+        "hospital": "Evergreen Hospital",
+        "department": "Oncology",
+        "patient_satisfaction": {"excellent": 97, "good": 127, "average": 77, "poor": 27},
+        "average_wait_time": 66,
+        "treatment_efficacy": {"effective": 77, "moderately_effective": 97, "ineffective": 47},
+        "patient_count": 250,
+        "gender_ratio": {"male": 171, "female": 137},
+        "facility_rating": {"cleanliness": 4.9, "comfort": 4.7}
+    },
+    {
+        "hospital": "Evergreen Hospital",
+        "department": "Emergency",
+        "patient_satisfaction": {"excellent": 92, "good": 102, "average": 107, "poor": 27},
+        "average_wait_time": 54,
+        "treatment_efficacy": {"effective": 92, "moderately_effective": 122, "ineffective": 7},
+        "patient_count": 509,
+        "gender_ratio": {"male": 212, "female": 173},
+        "facility_rating": {"cleanliness": 4.9, "comfort": 4.5}
+    },
+    {
+        "hospital": "Lakeside Mercy Medical Center",
+        "department": "Cardiology",
+        "patient_satisfaction": {"excellent": 131, "good": 106, "average": 86, "poor": 21},
+        "average_wait_time": 41,
+        "treatment_efficacy": {"effective": 91, "moderately_effective": 111, "ineffective": 31},
+        "patient_count": 223,
+        "gender_ratio": {"male": 161, "female": 161},
+        "facility_rating": {"cleanliness": 5.2, "comfort": 5.1}
+    },
+    {
+        "hospital": "Lakeside Mercy Medical Center",
+        "department": "Neurology",
+        "patient_satisfaction": {"excellent": 121, "good": 116, "average": 66, "poor": 41},
+        "average_wait_time": 51,
+        "treatment_efficacy": {"effective": 111, "moderately_effective": 91, "ineffective": 31},
+        "patient_count": 443,
+        "gender_ratio": {"male": 131, "female": 191},
+        "facility_rating": {"cleanliness": 5.8, "comfort": 5.4}
+    },
+
+    {
+        "hospital": "Lakeside Mercy Medical Center",
+        "department": "Dermatology",
+        "patient_satisfaction": {"excellent": 151, "good": 121, "average": 61, "poor": 11},
+        "average_wait_time": 31,
+        "treatment_efficacy": {"effective": 161, "moderately_effective": 61, "ineffective": 11},
+        "patient_count": 310,
+        "gender_ratio": {"male": 91, "female": 131},
+        "facility_rating": {"cleanliness": 5.9, "comfort": 5.8}
+    },
+    {
+        "hospital": "Lakeside Mercy Medical Center",
+        "department": "Pediatrics",
+        "patient_satisfaction": {"excellent": 111, "good": 111, "average": 91, "poor": 31},
+        "average_wait_time": 39,
+        "treatment_efficacy": {"effective": 121, "moderately_effective": 81, "ineffective": 31},
+        "patient_count": 260,
+        "gender_ratio": {"male": 161, "female": 161},
+        "facility_rating": {"cleanliness": 6.0, "comfort": 5.6}
+    },
+    {
+        "hospital": "Lakeside Mercy Medical Center",
+        "department": "Oncology",
+        "patient_satisfaction": {"excellent": 101, "good": 131, "average": 81, "poor": 31},
+        "average_wait_time": 77,
+        "treatment_efficacy": {"effective": 81, "moderately_effective": 101, "ineffective": 51},
+        "patient_count": 222,
+        "gender_ratio": {"male": 141, "female": 181},
+        "facility_rating": {"cleanliness": 5.3, "comfort": 5.1}
+    },
+    {
+        "hospital": "Lakeside Mercy Medical Center",
+        "department": "Emergency",
+        "patient_satisfaction": {"excellent": 96, "good": 106, "average": 111, "poor": 31},
+        "average_wait_time": 58,
+        "treatment_efficacy": {"effective": 96, "moderately_effective": 126, "ineffective": 11},
+        "patient_count": 324,
+        "gender_ratio": {"male": 171, "female": 151},
+        "facility_rating": {"cleanliness": 5.3, "comfort": 4.9}
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
