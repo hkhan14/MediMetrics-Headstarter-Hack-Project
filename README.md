@@ -34,6 +34,12 @@ Our application offers the following key features:
 <img width="1920" height="1516" alt="MediMetricsVisualization" src="https://github.com/user-attachments/assets/5acef251-5bf4-418f-b7a9-57fc3e4bca1e" />
 
 
+## Presentation & Impact
+
+Presented MediMetrics to 400+ attendees at Pathways to Tech, leveraging data storytelling to showcase real
+patient insights and earning strong feedback from a $2B founder and engineers from Goldman Sachs, OpenAI,
+Tesla, and Nvidia.
+
 
 ## Installation and Setup
 
