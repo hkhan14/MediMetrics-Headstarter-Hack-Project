@@ -29,6 +29,12 @@ Our application offers the following key features:
 5. **Facility Ratings**: Multiple Y-Axis scatter charts representing facility ratings in terms of cleanliness and comfort.
 6. **Treatment Efficacy Exploration**: Pie charts illustrating the effectiveness of treatments across various departments.
 
+
+
+<img width="1920" height="1516" alt="MediMetricsVisualization" src="https://github.com/user-attachments/assets/5acef251-5bf4-418f-b7a9-57fc3e4bca1e" />
+
+
+
 ## Installation and Setup
 
 ```bash
