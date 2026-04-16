@@ -1,4 +1,4 @@
-# MediMetrics
+# MediMetrics - 2nd Place Winner at HeadStarter Hackathon
 
 ## Introduction
 
